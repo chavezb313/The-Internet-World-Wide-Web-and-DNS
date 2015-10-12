@@ -1,0 +1,2 @@
+# The-Internet-World-Wide-Web-and-DNS
+The Internet is like a community of houses with many roads and highways connecting them across the world. The World Wide Web acts like a mail carrier, traveling and delivering the letters (data) across the roads and highways. Computers can be thought of like the people living in these houses. Each with an individual phone number (IP addresses). DNS is a system that ties these names to the numbers (IP addresses). This is my simple metaphor on how the Internet, World Wide Web and DNS works for IT102.
